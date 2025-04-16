@@ -1,13 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on cloud-native projects, DevOps pipelines, and modern web/mobile applications.
-
-🤝 I’m looking for help with optimizing CI/CD processes and deepening my expertise in scalable microservices architecture.
-
-🌱 I’m currently learning advanced Kubernetes orchestration, Helm, ArgoCD, and serverless cloud solutions (AWS, Azure).
-
-💬 Ask me about Python, Spring Boot, ERP integration, or how to get started with backend development and DevOps.
-
-⚡ Fun fact: I once taught Python and visual programming to high school students—and it was one of the most rewarding tech experiences I’ve had!
+👯 I’m looking to collaborate on cloud-native projects, DevOps pipelines, and modern web/mobile applications.<br>🤝 I’m looking for help with optimizing CI/CD processes and deepening my expertise in scalable microservices architecture.<br>🌱 I’m currently learning advanced Kubernetes orchestration, Helm, ArgoCD, and serverless cloud solutions (AWS, Azure).<br>💬 Ask me about Python, Spring Boot, ERP integration, or how to get started with backend development and DevOps.<br>⚡ Fun fact: I once taught Python and visual programming to high school students—and it was one of the most rewarding tech experiences I’ve had!
 
 
 ## 🌐 Socials:
@@ -19,5 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=achrafeh80&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=achrafeh80&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafeh80&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=achrafeh80&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
