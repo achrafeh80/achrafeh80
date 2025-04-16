@@ -1,5 +1,13 @@
 # 💫 About Me:
-Ingénieur passionné par les technologies cloud, le développement logiciel et les environnements distribués, je poursuis actuellement un Master en expertise Développement Cloud & Mobile à SUPINFO Lyon. Fort d’une solide formation d’ingénieur à l’EMSI Rabat et de plusieurs expériences professionnelles en France et au Maroc, j’ai eu l’occasion de concevoir, développer et tester des solutions variées, allant d’ERP complexes à des applications web et mobiles.<br>Je maîtrise plusieurs langages (Python, Java, C++, PHP...), frameworks (Spring Boot, Symfony…), et technologies cloud et DevOps (Docker, Kubernetes, Git, Azure DevOps, AWS).<br><br>J’ai également eu la chance de transmettre mes connaissances en enseignant la programmation Python à des lycéens. Curieux, rigoureux et toujours prêt à relever de nouveaux défis, je suis à la recherche d’une alternance à partir de septembre 2025 pour continuer à évoluer dans des environnements techniques innovants et collaboratifs.
+👯 I’m looking to collaborate on cloud-native projects, DevOps pipelines, and modern web/mobile applications.
+
+🤝 I’m looking for help with optimizing CI/CD processes and deepening my expertise in scalable microservices architecture.
+
+🌱 I’m currently learning advanced Kubernetes orchestration, Helm, ArgoCD, and serverless cloud solutions (AWS, Azure).
+
+💬 Ask me about Python, Spring Boot, ERP integration, or how to get started with backend development and DevOps.
+
+⚡ Fun fact: I once taught Python and visual programming to high school students—and it was one of the most rewarding tech experiences I’ve had!
 
 
 ## 🌐 Socials:
