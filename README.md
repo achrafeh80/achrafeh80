@@ -1,7 +1,3 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on cloud-native projects, DevOps pipelines, and modern web/mobile applications.<br>🤝 I’m looking for help with optimizing CI/CD processes and deepening my expertise in scalable microservices architecture.<br>🌱 I’m currently learning advanced Kubernetes orchestration, Helm, ArgoCD, and serverless cloud solutions (AWS, Azure).<br>💬 Ask me about Python, Spring Boot, ERP integration, or how to get started with backend development and DevOps.<br>⚡ Fun fact: I once taught Python and visual programming to high school students—and it was one of the most rewarding tech experiences I’ve had!
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/achraf1863) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lcompte.lakhor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/achraf-elharfi-9a49b4214/) 
 
